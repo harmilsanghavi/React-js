@@ -1,0 +1,66 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "amount": 777
+    },
+    {
+      "id": 2,
+      "amount": 100
+    },
+    {
+      "amount": 400,
+      "id": 4
+    },
+    {
+      "amount": 777,
+      "id": 5
+    },
+    {
+      "amount": 400,
+      "id": 6
+    },
+    {
+      "amount": 400,
+      "id": 7
+    },
+    {
+      "amount": 400,
+      "id": 8
+    },
+    {
+      "amount": 777,
+      "id": 9
+    },
+    {
+      "amount": 400,
+      "id": 10
+    },
+    {
+      "amount": 777,
+      "id": 11
+    },
+    {
+      "amount": 400,
+      "id": 12
+    },
+    {
+      "amount": 777,
+      "id": 13
+    },
+    {
+      "amount": 400,
+      "id": 14
+    }
+  ],
+  "bonus": [
+    {
+      "id": 1,
+      "point": 2
+    },
+    {
+      "id": 2,
+      "point": 3
+    }
+  ]
+}
